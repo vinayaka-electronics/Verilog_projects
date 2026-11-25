@@ -1,2 +1,2 @@
 # Verilog_projects
-Basic to advance projects
+Verilog HDL designs, testbenches and digital logic simulations
